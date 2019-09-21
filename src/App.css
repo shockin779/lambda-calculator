@@ -5,11 +5,13 @@
     border-radius: 15px;
     border: 2px solid grey;
     padding-bottom: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
 }
 .display {
-    margin-top: 25px;
+    margin: 25px 0;
     height: 100px;
-    width: 450px;
+    width: 90%;
     border-radius: 50px;
     color: white;
     background-color: #322c2d;
@@ -18,5 +20,5 @@
     justify-content: flex-end;
     align-items: flex-end;
     padding-right: 8%;
-    font-size: 5.0rem;
+    font-size: 4.5rem;
   }
