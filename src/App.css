@@ -5,11 +5,14 @@
     border-radius: 15px;
     border: 2px solid grey;
     padding-bottom: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
 }
 .display {
-    margin-top: 25px;
+    margin: 25px 0;
     height: 100px;
-    width: 450px;
+    width: 90%;
     border-radius: 50px;
     color: white;
     background-color: #322c2d;
@@ -18,5 +21,30 @@
     justify-content: flex-end;
     align-items: flex-end;
     padding-right: 8%;
-    font-size: 5.0rem;
+    font-size: 4.5rem;
   }
+
+
+.calcButton {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    color: white;
+    font-size: 28px;
+    box-shadow: 1px 3px #420108;
+    margin: 10px 10px;
+    outline: none;
+}
+
+.buttonWrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.leftButtons {
+    width: 70%;
+}
+
+.rightButtons {
+    width: 45%;
+}
