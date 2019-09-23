@@ -1,14 +1,6 @@
 .numberButton {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
     background-color: #113c78;
-    color: white;
     border: 1px solid #1c3872;
-    font-size: 28px;
-    box-shadow: 1px 3px #420108;
-    margin: 10px 10px;
-    outline: none;
 }
 
 .twoWidth {
